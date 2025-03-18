@@ -17,12 +17,12 @@ public class Student {
 
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         Student student = new Builder(1, "John Doe")
                 .grade(12)
                 .major("Computer Science")
                 .phoneNumber("123-456-7890")
                 .build();
         student.showInfo();
-    }
+    }*/
 }
