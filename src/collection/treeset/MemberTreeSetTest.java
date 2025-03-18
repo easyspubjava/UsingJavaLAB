@@ -18,9 +18,6 @@ public class MemberTreeSetTest {
 		memberTreeSet.addMember(memberSon);
 		memberTreeSet.addMember(memberPark);
 		memberTreeSet.showAllMember();
-		
-		Member memberHong = new Member(1003, "김찬규");  //1003 ���̵� �ߺ�
-		memberTreeSet.addMember(memberHong);
-		memberTreeSet.showAllMember();
+
 	}
 }
