@@ -8,9 +8,9 @@ public class MemberHashSetTest {
 
 		MemberHashSet memberHashSet = new MemberHashSet();
 		
-		Member memberLee = new Member(1001, "이지원");
-		Member memberSon = new Member(1002, "손민국");
-		Member memberPark = new Member(1003, "박서훤");
+		Member memberLee = new Member(1001, "이순신");
+		Member memberSon = new Member(1002, "강감찬");
+		Member memberPark = new Member(1003, "김유신");
 		
 		
 		memberHashSet.addMember(memberLee);
